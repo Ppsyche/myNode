@@ -1,0 +1,9 @@
+# myNode
+工作学习过程中的一些笔记
+
+## 2018/1/17
+1. 文字间距（[letter-spacing](http://www.w3school.com.cn/cssref/pr_text_letter-spacing.asp)）
+```css
+h1 {letter-spacing:2px}
+h2 {letter-spacing:-3px}
+```
